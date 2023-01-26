@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkim_app"]=self["webpackChunkim_app"]||[]).push([[156],{4156:function(n,r,e){e.r(r),e.d(r,{default:function(){return f}});var i=e(3396);const t={class:"container"},s=(0,i._)("iframe",{src:"https://lenaeii.github.io/processmining/docs/",width:"100%",height:"1000",frameborder:"0"},"\r\n        ",-1),a=[s];function c(n,r){return(0,i.wg)(),(0,i.iD)("div",t,a)}var u=e(89);const o={},p=(0,u.Z)(o,[["render",c]]);var f=p}}]);
+//# sourceMappingURL=156.e78fca3d.js.map
